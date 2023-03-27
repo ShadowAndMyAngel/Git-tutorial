@@ -1,2 +1,2 @@
 console.log('index.js');
-crossOriginIsolated.log('vertion2');
+crossOriginIsolated.log('vertion3');
